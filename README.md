@@ -13,6 +13,7 @@
 KataGo公益分享下载站是一个免费、共建的Katago分享下载平台。<br>
 基于Onedrive的高速下载渠道部署中。<br>
 目前主服务器托管于欧洲，由CloudFlare提供免费DNS及CDN加速。<br>
+站点支持IPv6访问<br>
 计划购入国内服务器（需要国内备案域名&服务器，莫急）<br>
 **网站地址（国际）：https://go.zun.wiki/**
 
@@ -26,7 +27,7 @@ KataGo公益分享下载站是一个免费、共建的Katago分享下载平台�
    * 编译教程
 * 五子棋Katago
    * 五子棋Katago简介✅
-   * 连珠规则
+   * 五子棋规则
    * 整合包下载✅
 * iKatago
    * iKatago简介
@@ -75,3 +76,7 @@ KataGo公益分享下载站是一个免费、共建的Katago分享下载平台�
     ```
     * 或使用GitHub在线编辑。
     * 打开[项目主仓库](https://github.com/ghacglogin/gowiki)，提交Pull Request，等待管理员通过。
+
+## 贡献者
+
+[![Contributors](https://contrib.rocks/image?repo=ghacglogin/gowiki)](https://github.com/ghacglogin/gowiki/graphs/contributors)
