@@ -67,7 +67,7 @@ KataGo公益分享下载站是一个免费、共建的Katago分享下载平台�
     ```
     * 新建一个MD文件，文件名为README_(语言).md
     * 比如`REDME_en-US.md`
-    * 通过[VsCode](https://code.visualstudio.com/)或其它合适的工具编辑此文件。
+    * 通过[VSCode](https://code.visualstudio.com/)或其它合适的工具编辑此文件。
     * 推送你的本地分支到远程（你自己fork 的）仓库
 
     ```bash
