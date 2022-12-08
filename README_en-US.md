@@ -40,6 +40,7 @@ Support IPv6<br>
    * Hex✅
    * Chinese Checkers✅
    * ZhongLiSiZiQi✅
+   * Connect6✅
    * Game of the Amazons
    * ······
 * GTP-GUI
