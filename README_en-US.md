@@ -29,7 +29,7 @@ Support IPv6<br>
    * Compile
 * Katagomo
    * Introductions✅
-   * Rules of Gomoku/Renju
+   * Rules of Gomoku/Renju✅
    * Downloads✅
 * iKatago
    * Introductions

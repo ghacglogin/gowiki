@@ -29,7 +29,7 @@ KataGo公益分享下载站是一个免费、共建的Katago分享下载平台�
    * 编译教程
 * 五子棋Katago
    * 五子棋Katago简介✅
-   * 五子棋规则
+   * 五子棋规则✅
    * 整合包下载✅
 * iKatago
    * iKatago简介
