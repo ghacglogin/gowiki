@@ -5,6 +5,9 @@
 # KataGo公益分享下载站
 
 <br>
+
+<img src="https://go.zun.wiki/wp-content/uploads/2022/12/sc4.webp" />
+
 </div>
 
 ## 简介
