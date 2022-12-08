@@ -1,7 +1,5 @@
 <div align="center">
 
-<img alt="LOGO" src="https://go.zun.wiki/wp-content/uploads/2022/12/kkgoi.png" width="256" height="256" />
-
 # KataGo公益分享下载站
 
 <br>
