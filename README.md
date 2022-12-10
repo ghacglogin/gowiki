@@ -6,7 +6,7 @@
 <a href="https://github.com/ghacglogin/gowiki/blob/main/README.md">中文</a> | <a href="https://github.com/ghacglogin/gowiki/blob/main/README_en-US.md">English</a>
 
 
-<img src="https://go.zun.wiki/wp-content/uploads/2022/12/sc4.webp" />
+<img src="https://github.com/ghacglogin/gowiki/blob/main/main.png" />
 
 </div>
 
