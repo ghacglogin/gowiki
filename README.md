@@ -18,6 +18,7 @@ KataGo公益分享下载站是一个免费、共建的Katago分享下载平台�
 目前主服务器托管于欧洲，由CloudFlare提供免费DNS及CDN加速。<br>
 站点支持IPv6访问<br>
 计划购入国内服务器（需要国内备案域名&服务器，莫急）<br>
+网站主题：[Argon](https://github.com/solstice23/argon-theme)
 **网站地址（国际）：https://go.zun.wiki/**<br>
 **网站地址（国内/暂时）:https://go.ydrive.top/**
 
