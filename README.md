@@ -17,7 +17,7 @@ KataGo公益分享下载站是一个免费、共建的Katago分享下载平台�
 基于Onedrive的高速下载渠道已部署。<br>
 基于阿里云的香港服务器和国内加速CDN<br>
 网站主题：[Argon](https://github.com/solstice23/argon-theme)<br>
-**网站地址（国际）：https://go.zun.wiki/**<br>
+**网站地址（国际）：https://www.katago.dog/**<br>
 
 ## 网站内容
 
