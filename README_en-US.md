@@ -14,9 +14,7 @@
 
 Katago Public Welfare Download Station is a free, co-built share and download platform for Katago.<br>
 Onedrive-based high-speed download channel has been deployed.<br>
-The server is hosted in Europe, and CloudFlare provides free DNS and CDN acceleration.<br>
-Support IPv6<br>
-
+Theme [Argon](https://github.com/solstice23/argon-theme)
 **Go to the website（Global）：https://go.zun.wiki/**
 
 ## Website Content
