@@ -1,3 +1,4 @@
+期末考试去了，一月份再见QWQ
 <div align="center">
 
 # KataGo公益分享下载站
