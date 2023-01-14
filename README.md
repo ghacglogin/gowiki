@@ -80,6 +80,10 @@ KataGo公益分享下载站是一个免费、共建的Katago分享下载平台�
     * 或使用GitHub在线编辑。
     * 打开[项目主仓库](https://github.com/ghacglogin/gowiki)，提交Pull Request，等待管理员通过。
 
+## 相关项目
+
+[Lizzieyzy快速启动工具](/ylsy2002/Lizzieyzy-Helper)
+
 ## 贡献者
 
 [![Contributors](https://contrib.rocks/image?repo=ghacglogin/gowiki)](https://github.com/ghacglogin/gowiki/graphs/contributors)
